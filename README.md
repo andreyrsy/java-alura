@@ -1,11 +1,11 @@
 # Aprendizados em Java na Alura
 
-Este repositório reúne exercícios e exemplos práticos desenvolvidos durante os cursos da Alura, abordando alguns fundamentos e recursos da linguagem Java. Os códigos estão organizados em subpastas, cada uma focada em um conjunto de tópicos essenciais para a formação de uma base sólida em programação Java.
+Fiz esse repositório para reunir alguns exercícios e exemplos práticos que fiz durante os cursos da Alura, abordando alguns fundamentos e recursos da linguagem Java. Os códigos estão organizados em subpastas, cada uma focada em um conjunto de tópicos essenciais para a formação de uma base sólida em programação Java.
 
 ## Tópicos Praticados
 
 ### 1. Praticando Java: Coleções e Streams
-- **Coleções**: Uso de `List`, `Set` e `Map` para armazenar, acessar e manipular conjuntos de dados.
+- **Coleções**: Uso de `List`, `Set` e `Map` pra armazenar, acessar e manipular conjuntos de dados.
 - **Streams**: Aplicação de operações funcionais como `filter`, `map`, `collect` e `reduce` para processar coleções de forma eficiente e expressiva.
 - **Exemplo**: Filtragem de listas, cálculo de comissões, soma de valores e manipulação de dados em coleções.
 
@@ -45,4 +45,4 @@ Este repositório reúne exercícios e exemplos práticos desenvolvidos durante 
 
 ## Conclusão
 
-Os códigos deste repositório representam uma jornada de aprendizado prático em Java, cobrindo desde os fundamentos até recursos mais avançados da linguagem. Cada exercício foi pensado para fixar conceitos essenciais, preparando para desafios reais de programação e desenvolvimento de sistemas.
+Os códigos desse repositório representam meu aprendizado com Java, cobrindo os fundamentos até alguns recursos mais avançados. Cada exercício usado para fixar conceitos essenciais, preparando para desafios reais de programação e desenvolvimento de sistemas.
