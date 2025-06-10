@@ -1,6 +1,6 @@
 # Aprendizados em Java na Alura
 
-Este repositório reúne exercícios e exemplos práticos desenvolvidos durante os cursos da Alura, abordando os principais fundamentos e recursos da linguagem Java. Os códigos estão organizados em subpastas temáticas, cada uma focada em um conjunto de tópicos essenciais para a formação de uma base sólida em programação Java.
+Este repositório reúne exercícios e exemplos práticos desenvolvidos durante os cursos da Alura, abordando alguns fundamentos e recursos da linguagem Java. Os códigos estão organizados em subpastas, cada uma focada em um conjunto de tópicos essenciais para a formação de uma base sólida em programação Java.
 
 ## Tópicos Praticados
 
