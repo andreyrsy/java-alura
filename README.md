@@ -46,7 +46,3 @@ Este repositório reúne exercícios e exemplos práticos desenvolvidos durante 
 ## Conclusão
 
 Os códigos deste repositório representam uma jornada de aprendizado prático em Java, cobrindo desde os fundamentos até recursos mais avançados da linguagem. Cada exercício foi pensado para fixar conceitos essenciais, preparando para desafios reais de programação e desenvolvimento de sistemas.
-
----
-
-#Java #Alura #Programação #Coleções #Streams #DataHora #Strings #Regex #Laços #Condicionais #Variáveis #Tipos 
