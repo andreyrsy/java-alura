@@ -1,4 +1,4 @@
-package HerancaEPolimorfismo.identificandoEstudante;
+package HerancaPolimorfismo.identificandoEstudante;
 
 public class Aluno {
     protected String nome;

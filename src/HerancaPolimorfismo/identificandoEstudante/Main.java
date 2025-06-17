@@ -1,4 +1,4 @@
-package HerancaEPolimorfismo.identificandoEstudante;
+package HerancaPolimorfismo.identificandoEstudante;
 
 public class Main {
     public static void main(String[] args) {
